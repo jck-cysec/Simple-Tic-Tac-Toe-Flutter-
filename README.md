@@ -122,4 +122,4 @@ Project ini dibuat untuk keperluan pembelajaran dan bebas digunakan untuk pengem
 
 ---
 
-**Happy Coding 🚀**
+**Happy Coding Everyone🚀**
