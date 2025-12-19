@@ -31,9 +31,9 @@ lib/
 ├── widgets/
 │   ├── displayResult.dart
 │   ├── displayScores.dart
-│   ├── gameRules.dart
-│   ├── tic_tac_toe_screen.dart
-│   └── main.dart
+├── gameRules.dart
+├── tic_tac_toe_screen.dart
+└── main.dart
 ```
 
 ### Penjelasan File
