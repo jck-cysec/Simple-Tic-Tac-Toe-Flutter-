@@ -62,7 +62,7 @@ lib/
 > Berikut adalah tampilan utama permainan Tic Tac Toe pada aplikasi ini:
 
 <p align="center">
-  <img src="screenshots/tic_tac_toe_game.png" alt="Tampilan Game Tic Tac Toe" width="300" />
+  <img src="screenshots/tic_tac_toe_game.jpeg" alt="Tampilan Game Tic Tac Toe" width="300" />
 </p>
 
 ---
